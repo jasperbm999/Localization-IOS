@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  swiftuitest
+
+  Created by Jasper Broekmans on 04/04/2023.
+  
+*/
+
+
+/* Food Bazaar */
+"food_bazaar" = "Food Bazaar";
+
+/* Results */
+"results" = "Results";
+
+/* Your Items */
+"your_items" = "Your Items";
+
+
+
+/* FoodItem */
+"fooditem_spiciness" = "Spiciness";
+"fooditem_name" = "Food Item";
+"fooditem_description" = "A delicious food item";
+"fooditem_price" = "$10";
+
+
